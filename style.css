@@ -1,0 +1,26 @@
+:root{
+--cor_botao_clicado:rgb(84, 84, 122);
+--cor_botao_n_clic:rgb(28, 28, 58);
+--cor_fundo:rgb(21, 21, 128);
+--cor_titulo:rgb(67, 67, 85);
+
+
+}
+body{
+    background-color:var(--cor_fundo);
+
+
+}
+h1{
+    color:var(--cor_titulo);
+
+}
+.principal{
+    border: salmon 2px;
+    text-align: center;
+    height: 200px;
+    width: 200;
+    border-radius: 200px;
+
+
+}
